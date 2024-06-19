@@ -18,9 +18,15 @@ Na Universidade Tecnológica Federal do Paraná (Câmpus Campo Mourão), o proje
 - [Pesquisadores disponibilizam Manual da SARndbox](http://portal.utfpr.edu.br/noticias/campo-mourao/recursos-educacionais)
 
 
-
 <!--<img src="https://github.com/projetosar/images/blob/master/capa_v2.0.png?raw=true" width="25%" height="25%" align="right">
 -->
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/DhCewt3MclU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+
+
+# SCRIPT PARA INSTALAÇÃO
+Em 2023, por conta de relatos de falhas na instalação utilizando os links para os repositórios originais da Universidade da California, criamos um script de instalação, já com todas as dependências incluidas.
+Para instalar, basta fazer download do script e seguir as instruções contidas no arquivo LEIA ME.txt
+
+O Script pode ser baixado [AQUI](https://drive.google.com/file/d/1pbByW30xOZ2GkhGMDv5aVmAs3ZAwBz4V/view?usp=drive_link)
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="10%" height="25%" align="right">
