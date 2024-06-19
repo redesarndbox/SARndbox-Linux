@@ -25,7 +25,7 @@ Na Universidade Tecnológica Federal do Paraná (Câmpus Campo Mourão), o proje
 
 # SCRIPT PARA INSTALAÇÃO
 Em 2023, por conta de relatos de falhas na instalação utilizando os links para os repositórios originais da Universidade da California, criamos um script de instalação, já com todas as dependências incluidas.
-Para instalar, basta fazer download do script e seguir as instruções contidas no arquivo LEIA ME.txt
+Para instalar, basta fazer download do script e seguir as instruções contidas no arquivo "LEIA ME.txt". Os créditos para a criação do script devem ser atribuídos para o [Caio Leonardo Araujo Miglioli](https://github.com/caiomiglioli/)
 
 O Script pode ser baixado [AQUI](https://drive.google.com/file/d/1pbByW30xOZ2GkhGMDv5aVmAs3ZAwBz4V/view?usp=drive_link)
 
